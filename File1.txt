@@ -9,3 +9,6 @@ change 3 -> fix by my teammate for bug3
 Change 4 -> fix bug2
 
 Change 5 -> Change by teammate to fix WI4
+
+Change 6 -> CR2 change to test merging with rebase
+
