@@ -1,5 +1,7 @@
 Hello World!!!
 
-Change - Login feature
+Change -> Login feature
 
-change - fix defect in login bug1
+change -> fix defect in login bug1
+
+change -> fix by my teammate for bug3
